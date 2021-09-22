@@ -1,2 +1,2 @@
-# firewall
-Home firewall based on OpenBSD and powered by Raspberry PI 4
+# Progetto firewall
+Home firewall based on OpenBSD (pf) and powered by Raspberry PI 4.
